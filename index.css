@@ -1,0 +1,13 @@
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    width: 1000px;
+  }
+.product{
+    border: solid purple;
+    box-shadow: 4px 4px 4px ;
+    background-color: blanchedalmond;
+    padding: 50px;
+
+}
